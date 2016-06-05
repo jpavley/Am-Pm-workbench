@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5ADEF2E31D035F6C008F4737 /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADEF2E21D035F6C008F4737 /* Clock.swift */; };
 		B91C69771D01A41900611881 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91C69761D01A41900611881 /* AppDelegate.swift */; };
 		B91C69791D01A41900611881 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91C69781D01A41900611881 /* ViewController.swift */; };
 		B91C697C1D01A41900611881 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B91C697A1D01A41900611881 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5ADEF2E21D035F6C008F4737 /* Clock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Clock.swift; sourceTree = "<group>"; };
 		B91C69731D01A41900611881 /* Am-Pm workbench.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Am-Pm workbench.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B91C69761D01A41900611881 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B91C69781D01A41900611881 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B91C69761D01A41900611881 /* AppDelegate.swift */,
+				5ADEF2E21D035F6C008F4737 /* Clock.swift */,
 				B91C69881D01A45600611881 /* TimeUtilities.swift */,
 				B91C69781D01A41900611881 /* ViewController.swift */,
 				B91C697A1D01A41900611881 /* Main.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				B91C69791D01A41900611881 /* ViewController.swift in Sources */,
 				B91C69891D01A45600611881 /* TimeUtilities.swift in Sources */,
+				5ADEF2E31D035F6C008F4737 /* Clock.swift in Sources */,
 				B91C69771D01A41900611881 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -292,6 +296,7 @@
 				B91C69871D01A41900611881 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
