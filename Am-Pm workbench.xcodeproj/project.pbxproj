@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A46B0F11D04F9AC00589126 /* AmbiguousClockUtilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46B0F01D04F9AC00589126 /* AmbiguousClockUtilities.swift */; };
 		5ADEF2E31D035F6C008F4737 /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADEF2E21D035F6C008F4737 /* Clock.swift */; };
 		B91C69771D01A41900611881 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91C69761D01A41900611881 /* AppDelegate.swift */; };
 		B91C69791D01A41900611881 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91C69781D01A41900611881 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A46B0F01D04F9AC00589126 /* AmbiguousClockUtilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AmbiguousClockUtilities.swift; sourceTree = "<group>"; };
 		5ADEF2E21D035F6C008F4737 /* Clock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Clock.swift; sourceTree = "<group>"; };
 		B91C69731D01A41900611881 /* Am-Pm workbench.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Am-Pm workbench.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B91C69761D01A41900611881 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				B91C697D1D01A41900611881 /* Assets.xcassets */,
 				B91C697F1D01A41900611881 /* LaunchScreen.storyboard */,
 				B91C69821D01A41900611881 /* Info.plist */,
+				5A46B0F01D04F9AC00589126 /* AmbiguousClockUtilities.swift */,
 			);
 			path = "Am-Pm workbench";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				B91C69891D01A45600611881 /* TimeUtilities.swift in Sources */,
 				5ADEF2E31D035F6C008F4737 /* Clock.swift in Sources */,
 				B91C69771D01A41900611881 /* AppDelegate.swift in Sources */,
+				5A46B0F11D04F9AC00589126 /* AmbiguousClockUtilities.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
